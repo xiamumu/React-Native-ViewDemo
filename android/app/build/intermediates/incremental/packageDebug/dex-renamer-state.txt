@@ -1,0 +1,7 @@
+#Sun Oct 09 09:43:37 CST 2016
+base.0=/Users/21_xm/Desktop/21Kp_xm/测试项目/React Native/代码/BViewDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_76210423a589a8586414b5aeb58e86684d8390ad
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/21_xm/Desktop/21Kp_xm/测试项目/React Native/代码/BViewDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_580c77f30d53dba7e49fd248692cb1ec6ef0a416/classes.dex
+base.1=/Users/21_xm/Desktop/21Kp_xm/测试项目/React Native/代码/BViewDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_580c77f30d53dba7e49fd248692cb1ec6ef0a416
+file.0=/Users/21_xm/Desktop/21Kp_xm/测试项目/React Native/代码/BViewDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_76210423a589a8586414b5aeb58e86684d8390ad/classes.dex

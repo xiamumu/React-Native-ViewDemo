@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/21_xm/Desktop/21Kp_xm/测试项目/React Native/代码/BViewDemo/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/21_xm/Desktop/21Kp_xm/测试项目/React Native/代码/BViewDemo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/21_xm/Desktop/21Kp_xm/测试项目/React Native/代码/BViewDemo/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/21_xm/Desktop/21Kp_xm/测试项目/React Native/代码/BViewDemo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
